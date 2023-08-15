@@ -18,12 +18,13 @@ Untitled UI
 <h4 align="center">
 
 <image href="https://github.com/mujapira/tailwind-dashboard/assets/89225210/aa6d5abf-97d6-4ef2-b146-1010b35b3971" />
-<div>
+
   <image href="https://github.com/mujapira/tailwind-dashboard/assets/89225210/c36e8330-36f5-4d71-8696-8a3b5ec753a6" />
   <image href="https://github.com/mujapira/tailwind-dashboard/assets/89225210/b973b589-0f88-430a-8b0f-008677f17398" />
   <image href="https://github.com/mujapira/tailwind-dashboard/assets/89225210/65f6374b-05d0-4fc6-9f18-d92a61ce6cd9" />
-</div>
 
+
+</h4>
 
 
 <h2 align="center">🏃‍♂️Instruções</h1>
