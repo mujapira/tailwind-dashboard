@@ -31,20 +31,8 @@ Untitled UI
 <h3>Clone o projeto e acesse a pasta.</h3>
 
 ```bash
-$ git clone git@github.com:mujapira/rentx.git
-$ cd rentx
-```
-
-<h3> altere o arquivo .env </h3>
-
-```bash
-NEXT_PUBLIC_API_KEY=
-NEXT_PUBLIC_AUTH_DOMAIN=
-NEXT_PUBLIC_PROJECT_ID=
-NEXT_PUBLIC_STORAGE_BUCKET=
-NEXT_PUBLIC_MESSAGING_SENDER_ID
-NEXT_PUBLIC_APP_ID=
-NEXT_PUBLIC_MEASUREMENT_ID=
+$ git clone git@github.com:tailwind-dashboard/rentx.git
+$ cd tailwind-dashboard
 ```
 
 <h3> Inicie o projeto </h3>
